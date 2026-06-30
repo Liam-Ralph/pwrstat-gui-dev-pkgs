@@ -1,3 +1,5 @@
+## This project has been archived. See [PwrStat GUI](https://github.com/liam-ralph/pwrstat-gui) under dev for developer packages.
+
 # PwrStat Developer Packages
 ### Released June 2026
 ### Version 2.0.1
