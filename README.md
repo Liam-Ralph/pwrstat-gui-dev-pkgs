@@ -1,4 +1,4 @@
-## This project has been archived. See [PwrStat GUI](https://github.com/liam-ralph/pwrstat-gui) under dev for developer packages.
+## This project has been archived. See [PwrStat GUI](https://github.com/liam-ralph/pwrstat-gui) under pkg for developer packages.
 
 # PwrStat Developer Packages
 ### Released June 2026
